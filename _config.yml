@@ -1,5 +1,5 @@
 # Site settings
-title: E-motors - ремонт электродвигателей в Днепропетровске
+title: e-motors
 email: magnum800@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
