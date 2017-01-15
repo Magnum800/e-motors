@@ -2,15 +2,20 @@
     <div class="container-fluid">
         <div class="row no-gutter">
             <div class="col-lg-4 col-sm-6">
-                <a href="#" class="portfolio-box">
+                <a href="javascript:void(0);" onclick="$('#p01short').toggle();$('#p01full').toggle();" class="portfolio-box">
                     <img src="img/portfolio/1.jpg" class="img-responsive" alt="">
                     <div class="portfolio-box-caption">
-                        <div class="portfolio-box-caption-content">
+                        <div id="p01short" class="portfolio-box-caption-content">
                             <div class="project-category text-faded">
                                 РЕМОНТ
                             </div>
                             <div class="project-name">
                                 Асинхронных электродвигателей общепромышленного назначения
+                            </div>
+                        </div>
+                        <div id="p01full" class="portfolio-box-caption-content">
+                            <div class="project-name">
+                                Описание ремонта
                             </div>
                         </div>
                     </div>
