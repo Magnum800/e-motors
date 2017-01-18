@@ -35,6 +35,14 @@
         }
     );
 
+     // Fit Text Plugin for Partfolio
+     $(".portfolio-box-caption-content").fitText(
+        1.2, {
+            minFontSize: '10px',
+            maxFontSize: '25px'
+        }
+    );
+    
     // Offset for Main Navigation
     $('#mainNav').affix({
         offset: {
