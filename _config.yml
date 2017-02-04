@@ -1,9 +1,9 @@
 # Site settings
 title: e-motors
 email: e.motors.ua@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
+description: Перемотка электродвигателей > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "Перемотка электродвигателей" # the base hostname & protocol for your site
+url: "http://e-motors.com.ua/" # the base hostname & protocol for your site
 
 twitter_username:
 github_username:
